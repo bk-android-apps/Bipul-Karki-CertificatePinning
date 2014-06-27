@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CertificatePinning</string>
+    <string name="hello_world">Verify Certificate:</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="app_description">SSL connection set to https://www.google.com </string>
+
+</resources>
